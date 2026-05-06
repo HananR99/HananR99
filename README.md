@@ -41,26 +41,32 @@
 
 ### &#128188; Experience
 
-<p>
-  <img src="https://img.shields.io/badge/Associate%20AI%2FML%20Engineer-Paralegal%20Pvt%20Ltd-0A66C2?style=for-the-badge" alt="Associate AI/ML Engineer" />
-  <img src="https://img.shields.io/badge/Feb%202026%20--%20Present-Remote-success?style=for-the-badge" alt="Feb 2026 to Present" />
-</p>
-
-AI legal search, Typesense indexing for 25K+ judgments, NLP/LLM pipelines, metadata extraction and Docker/Linux production operations.
-
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-Sri%20Lanka%20Telecom%20PLC-181717?style=for-the-badge" alt="SLT Intern" />
-  <img src="https://img.shields.io/badge/Aug%202024%20--%20Feb%202025-Digital%20Platform-blueviolet?style=for-the-badge" alt="Aug 2024 to Feb 2025" />
-</p>
-
-Built a Flask, PostgreSQL and Docker seat reservation system on Google Cloud Run, plus an API-driven Bitbucket dashboard that reduced manual reporting time by 60%.
-
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-Paralegal.lk-181717?style=for-the-badge" alt="Paralegal Intern" />
-  <img src="https://img.shields.io/badge/Jun%202024%20--%20Feb%202025-Remote-orange?style=for-the-badge" alt="June 2024 to Feb 2025" />
-</p>
-
-Integrated Typesense search and AI/ML features, improved site efficiency by 50% and supported an SEO overhaul that increased organic traffic by 80%.
+<table>
+  <tr>
+    <td width="130" align="center"><b>2026 - Now</b></td>
+    <td>
+      <b>Associate AI/ML Engineer</b><br/>
+      <sub>Paralegal Pvt Ltd | Remote</sub><br/>
+      AI legal search, Typesense indexing for 25K+ judgments, NLP/LLM pipelines, metadata extraction and Docker/Linux production operations.
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="center"><b>2024 - 2025</b></td>
+    <td>
+      <b>Software Engineer Intern</b><br/>
+      <sub>Sri Lanka Telecom PLC | Digital Platform</sub><br/>
+      Built a Flask, PostgreSQL and Docker seat reservation system on Google Cloud Run, plus an API-driven Bitbucket dashboard that reduced manual reporting time by 60%.
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="center"><b>2024 - 2025</b></td>
+    <td>
+      <b>Software Engineer Intern</b><br/>
+      <sub>Paralegal Pvt Ltd | Remote</sub><br/>
+      Integrated Typesense search and AI/ML features, improved site efficiency by 50% and supported an SEO overhaul that increased organic traffic by 80%.
+    </td>
+  </tr>
+</table>
 
 ---
 

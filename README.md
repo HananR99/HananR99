@@ -1,155 +1,111 @@
-# Hi, I'm Hanan Ahamed
+<h1 align="center">Hi &#128075;, I'm Hanan Ahamed</h1>
+<h3 align="center">Associate AI/ML Engineer | Computer Engineering Graduate | AI, Search and Full-Stack Systems</h3>
 
-Computer Engineering graduate from the University of Ruhuna, Sri Lanka, specializing in Software Engineering, AI, and Data Science. I enjoy building scalable, data-driven applications, from full-stack platforms and cloud-native systems to machine learning and real-time HCI solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HananR99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Legal%20Search%20%7C%20Backend-blue" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-success" alt="Location" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-HananR99-181717?style=for-the-badge&logo=github)](https://github.com/HananR99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanan%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanan-ahamed-61379a203/)
+<p align="center">
+  <a href="https://github.com/HananR99">
+    <img src="https://img.shields.io/badge/GitHub-HananR99-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hanan-ahamed-61379a203/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hanan%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-## About Me
+---
 
-- BSc. Eng (Hons) in Computer Engineering from the Faculty of Engineering, University of Ruhuna.
-- CGPA: 3.5/4.0, Second Class Upper.
-- Hands-on experience in software engineering, web development, AI, machine learning, and data science.
-- Built production-level systems through internships, including search, OCR, dashboards, reservation systems, and cloud deployments.
-- Strong interest in scalable backend systems, distributed architectures, cloud platforms, and intelligent applications.
+### &#128187; About
 
-## Experience
+- Currently working as **Associate AI/ML Engineer at Paralegal Pvt Ltd**
+- Building AI-powered legal search, NLP, LLM and document intelligence systems
+- Computer Engineering graduate from **University of Ruhuna**, CGPA **3.5/4.0**
+- Ask me about **Python, AI/ML, Typesense, Flask, Node.js, Docker and full-stack systems**
 
-**Associate AI/ML Engineer - Paralegal Pvt Ltd | Remote**  
-Feb 2026 - Present
+---
 
-- Built and optimized AI-powered legal search systems using Typesense, improving retrieval and indexing workflows for 25K+ Sri Lankan legal judgments.
-- Developed scalable NLP and LLM pipelines for legal document summarization, metadata extraction, and intelligent information retrieval.
-- Engineered backend data-processing workflows using Python, Node.js, MongoDB, and JSONL for large-scale legal datasets.
-- Managed production/server-side AI infrastructure using Docker, Linux, SSH, and tmux, including indexing automation and deployment operations.
-- Collaborated on legal AI solutions involving semantic search, embeddings, and structured legal analytics for digital legal research platforms.
+### &#129504; Tech Stack
 
-**Software Engineer Intern - Sri Lanka Telecom PLC | Digital Platform**  
-Aug 2024 - Feb 2025
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+</p>
 
-- Developed a full-stack Seat Reservation System using Flask, PostgreSQL, Docker, and Google Cloud Run.
-- Built an API-driven Bitbucket Dashboard that reduced manual reporting time by 60%.
-- Worked on production-level digital platform solutions and cloud deployment workflows.
+---
 
-**Software Engineer Intern - Paralegal.lk, Remote**  
-June 2024 - Feb 2025
+### &#128188; Experience
 
-- Contributed to full-stack development with Typesense search integration and AI/ML features.
-- Improved site efficiency by 50%.
-- Supported an SEO overhaul that increased organic website traffic by 80%.
+| Role | Company | Period |
+|---|---|---|
+| Associate AI/ML Engineer | Paralegal Pvt Ltd, Remote | Feb 2026 - Present |
+| Software Engineer Intern | Sri Lanka Telecom PLC, Digital Platform | Aug 2024 - Feb 2025 |
+| Software Engineer Intern | Paralegal.lk, Remote | Jun 2024 - Feb 2025 |
 
-## Education
+**Current work:** AI legal search, Typesense indexing for 25K+ judgments, NLP/LLM pipelines, legal summarization, metadata extraction, Docker/Linux server operations and scalable backend data workflows.
 
-**BSc. Eng (Hons) in Computer Engineering**  
-Faculty of Engineering, University of Ruhuna, Sri Lanka  
-2021 - 2025
+---
 
-**Advanced Level**  
-KM/AK/Addalaichenai M.M.V. (N/S), Addalaichenai, Sri Lanka  
-2018
+### &#128640; Featured Projects
 
-## Featured Projects
+<p align="left">
+  <a href="https://github.com/HananR99/Facial-Emotion-Recognition-based-HCI-system.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=Facial-Emotion-Recognition-based-HCI-system&theme=tokyonight" alt="HCI project" />
+  </a>
+  <a href="https://github.com/HananR99/ruhutickets.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=ruhutickets&theme=tokyonight" alt="RuhuTickets" />
+  </a>
+</p>
 
-### Real-time Emotion-Driven HCI
+<p align="left">
+  <a href="https://github.com/HananR99/Kafka-based-order-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=Kafka-based-order-system&theme=tokyonight" alt="Kafka-based order system" />
+  </a>
+  <a href="https://github.com/HananR99/chat1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=chat1&theme=tokyonight" alt="Mobile chat app" />
+  </a>
+</p>
 
-Developed a real-time human-computer interaction system using Python and OpenCV, integrating facial expression recognition, hand-gesture mouse control, and voice command processing through unified ML pipelines.
+---
 
-Tech: Python, OpenCV, MediaPipe, Machine Learning, HCI  
-Repository: [Facial-Emotion-Recognition-based-HCI-system](https://github.com/HananR99/Facial-Emotion-Recognition-based-HCI-system.git)
+### &#127942; Highlights
 
-### RuhuTickets
+- **Haxtreme 2.0:** Second runners-up among 100+ teams
+- **Research:** Early Detection Machine Learning for Breast Cancer Prediction
+- **Cloud:** Built and deployed systems using Docker, Kubernetes and Google Cloud Run
 
-A cloud-native microservices ticketing platform using Node.js, PostgreSQL, Docker, Kubernetes, RabbitMQ, and the Saga pattern for scalable, fault-tolerant distributed transactions.
+---
 
-Tech: Node.js, PostgreSQL, Docker, Kubernetes, RabbitMQ, Microservices  
-Repository: [ruhutickets](https://github.com/HananR99/ruhutickets.git)
+### &#128202; GitHub Stats
 
-### Kafka-Based Order System
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HananR99&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
-Built a Kafka-based system for real-time order processing with Avro serialization, real-time price aggregation, retry logic, and a Dead Letter Queue for robust data pipelines.
-
-Tech: Python, Apache Kafka, Avro, Docker, Big Data  
-Repository: [Kafka-based-order-system](https://github.com/HananR99/Kafka-based-order-system)
-
-### DoctorBooking
-
-A two-semester group project for an online doctor booking platform integrated with machine learning models for disease prediction and doctor suggestions.
-
-Tech: React JS, Node JS, Tailwind CSS, MongoDB, Express JS, Deep Learning, Virtual Streaming  
-Live: [DoctorBooking](https://medical-app-xi-two.vercel.app/)
-
-### Mobile Chat Application
-
-Built a mobile chat application with real-time communication using Flutter and Firebase.
-
-Tech: Flutter, Firebase, Dart, C++  
-Repository: [chat1](https://github.com/HananR99/chat1)
-
-### Online Mentoring Platform
-
-Developed a MERN stack mentoring platform that connects mentors and mentees, with a focus on CRUD operations and user workflows.
-
-Tech: React JS, Vite, Tailwind CSS, MongoDB, Express JS  
-Repository: [Online-Mentoring-Platform](https://github.com/HananR99/Online-Mentoring-Platform)
-
-### File Share App
-
-Built a Java socket programming file-sharing application with multithreading support for client-server file transfer.
-
-Tech: Java, Socket Programming, Multithreading  
-Repository: [File-Share](https://github.com/HananR99/File-Share)
-
-### Early Detection: Breast Cancer Prediction
-
-Developed a machine learning model for early-stage breast cancer prediction using the Wisconsin Breast Cancer dataset with Logistic Regression and Decision Tree algorithms.
-
-Tech: Machine Learning, Logistic Regression, Decision Tree  
-Publication: [ResearchGate](https://www.researchgate.net/publication/380394519_Early_Detection_Machine_Learning_for_Breast_Cancer_Prediction)
-
-## Skills
-
-**Programming Languages**  
-Python, C++, Java, JavaScript, Dart, HTML, CSS
-
-**Frontend Development**  
-React JS, Next.js, Vite, Tailwind CSS, Flutter
-
-**Backend Development**  
-Node.js, Express JS, Flask, Django
-
-**AI, Machine Learning, and Data**  
-Machine Learning, PyTorch, TensorFlow, OpenCV, MediaPipe, Apache Kafka, Avro
-
-**Databases and Caching**  
-MongoDB, PostgreSQL, SQLite, Redis, Firebase
-
-**Cloud, DevOps, and Tools**  
-Docker, Kubernetes, RabbitMQ, Google Cloud Platform, AWS, Git, Jira
-
-## Achievements
-
-**Haxtreme 2.0 - Second Runners-up**
-
-Secured second runners-up position in Haxtreme 2.0, an intra-university coding competition organized by the Faculty of Engineering, University of Ruhuna, with over 100 participating teams.
-
-Focus areas: Algorithms, Data Structures, Competitive Programming  
-Link: [Haxtreme 2.0](https://www.eng.ruh.ac.lk/haxtreme-2-0v-hackathon-competition/)
-
-## Certificates
-
-- Machine Learning - DeepLearning.AI
-- Artificial Intelligence - ICE Institute
-- Cloud Computing - Google Cloud
-- Software Engineering - ICE Institute
-- HTML and Web Development - W3Cx
-
-## GitHub Stats
-
-![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HananR99&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HananR99&layout=compact&theme=tokyonight)
-
-## Let's Connect
-
-- GitHub: [github.com/HananR99](https://github.com/HananR99)
-- LinkedIn: [linkedin.com/in/hanan-ahamed-61379a203](https://www.linkedin.com/in/hanan-ahamed-61379a203/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananR99&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>

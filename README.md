@@ -43,26 +43,26 @@
 
 <table>
   <tr>
-    <td width="130" align="center"><b>2026 - Now</b></td>
+    <td width="160" align="center"><b>Feb 2026 - Present</b></td>
     <td>
       <b>Associate AI/ML Engineer</b><br/>
-      <sub>Paralegal Pvt Ltd | Remote</sub><br/>
+      <sub><a href="https://www.paralegal.lk">Paralegal Pvt Ltd</a> | Remote</sub><br/>
       AI legal search, Typesense indexing for 25K+ judgments, NLP/LLM pipelines, metadata extraction and Docker/Linux production operations.
     </td>
   </tr>
   <tr>
-    <td width="130" align="center"><b>2024 - 2025</b></td>
+    <td width="160" align="center"><b>Aug 2024 - Feb 2025</b></td>
     <td>
       <b>Software Engineer Intern</b><br/>
-      <sub>Sri Lanka Telecom PLC | Digital Platform</sub><br/>
+      <sub><a href="https://www.linkedin.com/company/srilankatelecom/">Sri Lanka Telecom PLC</a> | Digital Platform</sub><br/>
       Built a Flask, PostgreSQL and Docker seat reservation system on Google Cloud Run, plus an API-driven Bitbucket dashboard that reduced manual reporting time by 60%.
     </td>
   </tr>
   <tr>
-    <td width="130" align="center"><b>2024 - 2025</b></td>
+    <td width="160" align="center"><b>Jun 2024 - Feb 2025</b></td>
     <td>
       <b>Software Engineer Intern</b><br/>
-      <sub>Paralegal Pvt Ltd | Remote</sub><br/>
+      <sub><a href="https://www.paralegal.lk">Paralegal Pvt Ltd</a> | Remote</sub><br/>
       Integrated Typesense search and AI/ML features, improved site efficiency by 50% and supported an SEO overhaul that increased organic traffic by 80%.
     </td>
   </tr>

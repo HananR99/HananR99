@@ -46,7 +46,7 @@
     <td width="160" align="center"><b>Feb 2026 - Present</b></td>
     <td>
       <b>Associate AI/ML Engineer</b><br/>
-      <sub><a href="https://www.paralegal.lk">Paralegal Pvt Ltd</a> | Remote</sub><br/>
+      <sub><a href="https://www.paralegal.lk">Paralegal Pvt Ltd</a></sub><br/>
       AI legal search, Typesense indexing for 25K+ judgments, NLP/LLM pipelines, metadata extraction and Docker/Linux production operations.
     </td>
   </tr>

@@ -29,31 +29,12 @@
 
 ### &#129504; Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,dart,react,next,nodejs,express,flask,flutter&perline=12" alt="Programming and development tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,pytorch,tensorflow,opencv,mongodb,postgres,redis,docker,kubernetes,gcp,linux,git&perline=12" alt="AI, database, cloud and DevOps tools" />
 </p>
 
 ---
@@ -72,40 +53,64 @@
 
 ### &#128640; Featured Projects
 
-<p align="left">
-  <a href="https://github.com/HananR99/Facial-Emotion-Recognition-based-HCI-system.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=Facial-Emotion-Recognition-based-HCI-system&theme=tokyonight" alt="HCI project" />
-  </a>
-  <a href="https://github.com/HananR99/ruhutickets.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=ruhutickets&theme=tokyonight" alt="RuhuTickets" />
-  </a>
-</p>
+**Real-Time Emotion-Driven HCI**  
+Multimodal HCI system with facial emotion recognition, gesture mouse control and voice command processing.
 
-<p align="left">
-  <a href="https://github.com/HananR99/Kafka-based-order-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=Kafka-based-order-system&theme=tokyonight" alt="Kafka-based order system" />
-  </a>
-  <a href="https://github.com/HananR99/chat1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HananR99&repo=chat1&theme=tokyonight" alt="Mobile chat app" />
-  </a>
-</p>
+<a href="https://github.com/HananR99/Facial-Emotion-Recognition-based-HCI-system.git"><img src="https://img.shields.io/badge/View%20Project-HCI%20System-181717?style=for-the-badge&logo=github" alt="HCI System" /></a>
+
+**RuhuTickets**  
+Cloud-native microservices ticketing platform with Saga-based distributed transactions and RabbitMQ messaging.
+
+<a href="https://github.com/HananR99/ruhutickets.git"><img src="https://img.shields.io/badge/View%20Project-RuhuTickets-181717?style=for-the-badge&logo=github" alt="RuhuTickets" /></a>
+
+**Kafka-Based Order System**  
+Real-time order processing system using Kafka, Avro serialization, retry logic and a Dead Letter Queue.
+
+<a href="https://github.com/HananR99/Kafka-based-order-system"><img src="https://img.shields.io/badge/View%20Project-Kafka%20System-181717?style=for-the-badge&logo=github" alt="Kafka System" /></a>
+
+**DoctorBooking**  
+Doctor booking platform with ML-powered disease prediction and doctor suggestion features.
+
+<a href="https://medical-app-xi-two.vercel.app/"><img src="https://img.shields.io/badge/Live-DoctorBooking-0A66C2?style=for-the-badge&logo=vercel" alt="DoctorBooking Live" /></a>
+
+**Mobile Chat Application**  
+Flutter and Firebase real-time chat application for mobile messaging.
+
+<a href="https://github.com/HananR99/chat1"><img src="https://img.shields.io/badge/View%20Project-Mobile%20Chat-181717?style=for-the-badge&logo=github" alt="Mobile Chat" /></a>
+
+**File Share App**  
+Java socket-programming file sharing app with multithreaded client-server communication.
+
+<a href="https://github.com/HananR99/File-Share"><img src="https://img.shields.io/badge/View%20Project-File%20Share-181717?style=for-the-badge&logo=github" alt="File Share" /></a>
+
+---
+
+### &#128218; Research
+
+**Real-Time Emotion and Facial Expression-Driven Human-Computer Interaction for Personalized Experiences**  
+Published in **2026 6th International Conference on Advanced Research in Computing (ICARC)**.  
+DOI: `10.1109/ICARC68737.2026.11453529`
+
+<a href="https://ieeexplore.ieee.org/document/11453529"><img src="https://img.shields.io/badge/IEEE%20Xplore-View%20Publication-00629B?style=for-the-badge&logo=ieee" alt="IEEE publication" /></a>
+
+**Early Detection: Machine Learning for Breast Cancer Prediction**  
+Machine learning research using Logistic Regression and Decision Tree models on the Wisconsin Breast Cancer dataset.
+
+<a href="https://www.researchgate.net/publication/380394519_Early_Detection_Machine_Learning_for_Breast_Cancer_Prediction"><img src="https://img.shields.io/badge/ResearchGate-View%20Research-00CCBB?style=for-the-badge&logo=researchgate" alt="ResearchGate publication" /></a>
 
 ---
 
 ### &#127942; Highlights
 
 - **Haxtreme 2.0:** Second runners-up among 100+ teams
-- **Research:** Early Detection Machine Learning for Breast Cancer Prediction
 - **Cloud:** Built and deployed systems using Docker, Kubernetes and Google Cloud Run
+- **AI Search:** Worked on legal search and indexing workflows for 25K+ Sri Lankan legal judgments
 
 ---
 
-### &#128202; GitHub Stats
+### &#128202; GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HananR99&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananR99&layout=compact&theme=tokyonight" alt="Top languages" />
+  <a href="https://github.com/HananR99?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://github.com/HananR99"><img src="https://img.shields.io/badge/Profile-HananR99-181717?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
 </p>
